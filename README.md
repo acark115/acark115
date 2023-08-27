@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on web development, blockchain, artificial intelligence application development, electronics, ethical hacking, and game development. I am open to any kind of collaboration.
+I am currently working on game cheat development, web development, blockchain, artificial intelligence application development, electronics, ethical hacking, and game development. I am open to any kind of collaboration.
 
 
 ## 🌐 Socials:
