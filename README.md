@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@keremar34287389" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@keremar34287389" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kerem arda açar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerem arda açar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kerem-arda-açar-b00161213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerem arda açar" height="30" width="40" /></a>
 <a href="https://instagram.com/acar_keremarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="acar_keremarda" height="30" width="40" /></a>
 <a href="https://medium.com/@acarkeremarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@acarkeremarda" height="30" width="40" /></a>
 <a href="https://discord.gg/acark_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="acark_" height="30" width="40" /></a>
