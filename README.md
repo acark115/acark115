@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **game cheat development, web development, blockchain, artificial intelligence application development, electronics, ethical hacking, and game development**
 
-- 💬 Ask me about **c++,c,cheat engine,django,flask**
+- 💬 Ask me about **Python,c++,c,game cheating**
 
 - 📫 How to reach me **acarkeremarda@gmail.com**
 
