@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍄 I <3 hobby dev!<br>
+🌐 I <3 hobby dev!<br>
 🍪 Interested in cyber security, reverse engineering, artificial intelligence, hardware design, electronics, embedded systems and quantum computer programming
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/acark_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acar_keremarda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@acarkeremarda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/@keremar34287389) 
