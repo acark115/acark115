@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am active in cyber security, reverse engineering, electronics, embedded systems, hardware design, artificial intelligence and quantum computer programming.<br><br>My goal is: To improve my knowledge and skills in these areas, contribute to innovative projects and improve cyber security.<br><br>Areas of interest:<br><br>Cybersecurity research and vulnerability discovery<br>Reverse engineering and software analysis<br>Electronic circuit design and embedded systems development<br>Artificial intelligence models and quantum computer programming<br>I keep learning:<br><br>Quantum computer architecture<br>Deep learning for artificial intelligence<br>Advanced cyber security threats<br>Reverse engineering techniques<br>Electronic circuit design best practices
-
+🍄 I <3 hobby dev!<br>
+🍪 Interested in cyber security, reverse engineering, artificial intelligence, hardware design, electronics, embedded systems and qunatum computer programming
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/acark_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acar_keremarda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@acarkeremarda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/@keremar34287389) 
 
