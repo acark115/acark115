@@ -3,8 +3,8 @@ Interested in cyber security, reverse engineering, artificial intelligence, elec
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/acark_) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/acar_keremarda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kerem-arda-a%C3%A7ar-b00161213) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@acarkeremarda) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/@keremar34287389) 
-
+<h3 align="left">
+  You can contact me on <a href='https://discord.gg/https://discord.gg/acark'>Discord</a> or at <a href='https://www.linkedin.com/in/kerem-arda-a%C3%A7ar-b00161213'>LinkedIn</a>
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![language/framework/ide no. 4](https://img.shields.io/badge/IBM_Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/quantum-computing/)
 [![language/framework/ide no. 5](https://img.shields.io/badge/IBM_Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://qiskit.org/)
