@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D50B&width=435&lines=acark.)](https://git.io/typing-svg)
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D50B&width=435&lines=acark." alt="Typing SVG" /></a></h1>
 
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
