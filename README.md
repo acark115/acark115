@@ -1,10 +1,10 @@
 <h1 align="left">YOOOOO</h1>
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
 ## 🌐 Socials:
 <h3 align="left">
   You can contact me on <a href='https://discord.gg/https://discord.gg/acark'>Discord</a> or at <a href='https://www.linkedin.com/in/kerem-arda-a%C3%A7ar-b00161213'>LinkedIn</a>
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
   
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![language/framework/ide no. 4](https://img.shields.io/badge/IBM_Quantum-052FAD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/quantum-computing/)
