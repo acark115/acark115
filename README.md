@@ -1,4 +1,4 @@
-<h1 align="left">YOOOOO</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D50B&width=435&lines=acark.)](https://git.io/typing-svg)
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
 ## 🌐 Socials:
