@@ -1,4 +1,4 @@
-<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=YOOOOO." alt="Typing SVG" /></a></h1>
+<h1 align="left"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=30&pause=1000&width=435&lines=YOOOOO." alt="Typing SVG" /></a></h1>
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
 ## 🌐 Socials:
