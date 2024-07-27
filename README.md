@@ -1,5 +1,4 @@
 <h1 align="left">YOOOOO</h1>
-About Me:
 🌐 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
