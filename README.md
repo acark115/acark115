@@ -1,3 +1,5 @@
+![Banner](https://tenor.com/tr/view/memz-virus-trojan32-cat-kitty-gif-15759490)
+
 <h1 align="left"><a href='#'>YOOOOO</a></h1>
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
