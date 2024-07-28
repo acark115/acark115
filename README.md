@@ -6,7 +6,7 @@
   You can contact me on <a href='https://linktr.ee/acark'>Discord</a> or at <a href='https://www.linkedin.com/in/kerem-arda-a%C3%A7ar-b00161213'>LinkedIn</a>
 </h3>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3D90E6&width=435&lines=Touch+some+grass.)](https://git.io/typing-svg)
   
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Tech Stack</b> 
 
