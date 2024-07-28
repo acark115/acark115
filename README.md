@@ -1,3 +1,4 @@
+![Shadir's GitHub Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmemz-virus-trojan32-cat-kitty-gif-15759490&psig=AOvVaw1RGJSyzNZlkMtkGkjJL7MN&ust=1722270014249000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMD6vPSRyocDFQAAAAAdAAAAABAE)
 <h1 align="left"><a href='#'>YOOOOO</a></h1>
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
