@@ -1,6 +1,3 @@
-<img src="https://github.com/user-attachments/assets/4f87b2ae-9137-4468-a604-913a0fa78fe1" alt="Banner" style="height:100px; width:500%;">
-
-
 <h1 align="left"><a href='#'>YOOOOO</a></h1>
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
@@ -17,3 +14,4 @@ Interested in cyber security, reverse engineering, artificial intelligence, elec
  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 ![nyan-cat-meme-398999858](https://github.com/user-attachments/assets/4f87b2ae-9137-4468-a604-913a0fa78fe1)
+<img src="https://github.com/kullanıcıadı/repositoryadı/blob/branchadı/dosyaadı.gif" alt="Banner" style="height:200px; width:500px;">
