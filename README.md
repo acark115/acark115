@@ -1,4 +1,5 @@
-<img src="https://github.com/user-attachments/assets/4f87b2ae-9137-4468-a604-913a0fa78fe1" alt="Banner" style="height: 100px; width: 400%;">
+<img src="https://github.com/user-attachments/assets/4f87b2ae-9137-4468-a604-913a0fa78fe1" alt="Banner" style="height:100px; width:500%;">
+
 
 <h1 align="left"><a href='#'>YOOOOO</a></h1>
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
