@@ -1,4 +1,4 @@
- ![image alt text](https://github.com/user-attachments/assets/4f87b2ae-9137-4468-a604-913a0fa78fe1?width=half)
+![Image title](https://github.com/user-attachments/assets/4f87b2ae-9137-4468-a604-913a0fa78fe1){ .image25percent }
 <h1 align="left"><a href='#'>YOOOOO</a></h1>
 Interested in cyber security, reverse engineering, artificial intelligence, electronics, embedded systems and quantum computer programming
 
