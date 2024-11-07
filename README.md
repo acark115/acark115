@@ -3,7 +3,7 @@
 
 ## 🌐 Socials:
 <h3 align="left">
-  You can contact me on <a href='https://linktr.ee/acark'>Discord</a> or at <a href='https://www.linkedin.com/in/kerem-arda-a%C3%A7ar-b00161213'>LinkedIn</a>
+  You can contact me on <a href='https://www.linkedin.com/in/kerem-arda-a%C3%A7ar-b00161213'>LinkedIn</a>
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3D90E6&width=435&lines=Touch+some+grass.)](https://git.io/typing-svg)
