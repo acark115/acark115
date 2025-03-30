@@ -1,5 +1,5 @@
 <h1 align="left"><a href='#'>YOOOOO</a></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=15&pause=1000&color=3D90E6&width=435&lines=Interested+in+artificial+intelligence%2C;electronics%2C+quantum+computing;brain computer interfaces;Neuromorphic computing;Cyber security;Hardware hacking;Digistal system design" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=15&pause=1000&color=3D90E6&width=435&lines=Interested+in+artificial+intelligence%2C;electronics%2C+Quantum+computing;brain computer interfaces;Neuromorphic computing;Digistal system design" alt="Typing SVG" /></a>
 
 ## 🌐 Socials:
 <h3 align="left">
